@@ -1,0 +1,15 @@
+--- 
+cursor_positions: 
+  - :path: .gitignore
+    :cursor_offset: 0
+    :timestamp: 2013-02-09 06:24:45 -08:00
+  - :path: Rakefile
+    :cursor_offset: 0
+    :timestamp: 2013-02-09 06:46:19 -08:00
+  - :path: Gemfile
+    :cursor_offset: 0
+    :timestamp: 2013-02-09 06:24:45 -08:00
+  - :path: lib/Application.rb
+    :cursor_offset: 383
+    :timestamp: 2013-02-16 11:10:57 -08:00
+files_to_retain: 0
